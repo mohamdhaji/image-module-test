@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "homepage": "https://github.com/mohamdhaji/image-module-test",
-
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamdhaji/image-module-test.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
